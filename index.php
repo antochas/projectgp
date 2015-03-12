@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         
-        <form action="controller/Login.php" method="POST">
+        <form action="controller/LoginController.php" method="POST">
             
             <input type="text" required="" placeholder="Username" name="usrnm">
             <input type="password" required="" placeholder="Password" name="psswrd">
